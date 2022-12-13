@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="462" height="270" viewBox="0 0 462 270">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #372b7b;
+        font-size: 30px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #dd5454;
+        stroke-linecap: square;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Group_162487" data-name="Group 162487" transform="translate(1 -1159)">
+    <text id="What_we_do_" data-name="What we do?" class="cls-1" transform="translate(390 1429) rotate(-90)"><tspan x="55" y="32">What we do?</tspan></text>
+    <line id="Line_249" data-name="Line 249" class="cls-2" x2="371.508" transform="translate(0.5 1192.5)"/>
+    <line id="Line_257" data-name="Line 257" class="cls-2" x2="371.508" transform="translate(0.5 1286.5)"/>
+    <line id="Line_251" data-name="Line 251" class="cls-2" x2="371.508" transform="translate(0.5 1216.5)"/>
+    <line id="Line_256" data-name="Line 256" class="cls-2" x2="371.508" transform="translate(0.5 1310.5)"/>
+    <line id="Line_252" data-name="Line 252" class="cls-2" x2="371.508" transform="translate(0.5 1239.5)"/>
+    <line id="Line_255" data-name="Line 255" class="cls-2" x2="371.508" transform="translate(0.5 1334.5)"/>
+    <line id="Line_253" data-name="Line 253" class="cls-2" x2="371.508" transform="translate(0.5 1263.5)"/>
+    <line id="Line_254" data-name="Line 254" class="cls-2" x2="371.508" transform="translate(0.5 1357.5)"/>
+    <line id="Line_258" data-name="Line 258" class="cls-2" x2="371.508" transform="translate(0.5 1381.5)"/>
+  </g>
+</svg>

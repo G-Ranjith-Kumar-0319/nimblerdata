@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="32" viewBox="0 0 26 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dd5454;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-file-text" data-name="Icon feather-file-text" transform="translate(-1 3)">
+    <path id="Path_83210" data-name="Path 83210" class="cls-1" d="M9,2H21a1,1,0,0,1,.707.293l9,9A1,1,0,0,1,31,12V30a4,4,0,0,1-4,4H9a4,4,0,0,1-4-4V6A4,4,0,0,1,9,2ZM20.586,4H9A2,2,0,0,0,7,6V30a2,2,0,0,0,2,2H27a2,2,0,0,0,2-2V12.414Z" transform="translate(-4 -5)"/>
+    <path id="Path_83211" data-name="Path 83211" class="cls-1" d="M30,13H21a1,1,0,0,1-1-1V3a1,1,0,0,1,2,0v8h8a1,1,0,0,1,0,2Z" transform="translate(-5 -4)"/>
+    <path id="Path_83212" data-name="Path 83212" class="cls-1" d="M24,20.5H12a1,1,0,0,1,0-2H24a1,1,0,0,1,0,2Z" transform="translate(-4 -4)"/>
+    <path id="Path_83213" data-name="Path 83213" class="cls-1" d="M24,26.5H12a1,1,0,0,1,0-2H24a1,1,0,0,1,0,2Z" transform="translate(-4 -4)"/>
+    <path id="Path_83214" data-name="Path 83214" class="cls-1" d="M15,14.5H12a1,1,0,0,1,0-2h3a1,1,0,0,1,0,2Z" transform="translate(-4 -4)"/>
+  </g>
+</svg>
